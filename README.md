@@ -30,5 +30,10 @@ If you check the entries in the dataset, you will see that the store caters to 7
 ## Acknowledgements
 The dataset has been gotten from kaggle and can be found at https://www.kaggle.com/prathimananjundaiah/global-superstore
 
+## Actions Taken:
+- Performed some data cleaning and wrangling on the dataset to deal with quality and tidiness issues 
+- Performed Time Series Analysis and forecasting on the sales of Product Categories across the various Market Segments for the next six months. 
+- Provided analytics that will aid proper estimation and effective planning of inventory and business processes.
+
 ## Conclusion
 Based on the analyses conducted on the dataset and the insights gotten, it can be concluded that there seems to be an upward trend for a period of 6 months forecast and some seasonal components as well
