@@ -16,7 +16,7 @@ The store dataset has the following 5 attributes and their data description is a
 - Sales: Total sales value of the transaction
 - Profit: Profit made on the transaction
 
-If you check the entries in the dataset, you will see that the store caters to 7 different geographical markets and 3 major customer segments, i.e. consumer, corporate and home as can be seen in the table below.
+If you check the entries in the dataset, you will see that the store caters to 7 different geographical markets and 3 major customer segments, i.e. consumer, corporate, and home as can be seen in the table below.
 
 ## Geographical Markets
 - Africa Consumer
@@ -28,7 +28,7 @@ If you check the entries in the dataset, you will see that the store caters to 7
 - US (United States)
 
 ## Acknowledgements
-The dataset has been gotten from kaggle and can be found at https://www.kaggle.com/prathimananjundaiah/global-superstore
+The dataset has been obtained from kaggle and can be found at https://www.kaggle.com/prathimananjundaiah/global-superstore
 
 ## Actions Taken:
 - Performed some data cleaning and wrangling on the dataset to deal with quality and tidiness issues 
@@ -36,4 +36,4 @@ The dataset has been gotten from kaggle and can be found at https://www.kaggle.c
 - Provided analytics that will aid proper estimation and effective planning of inventory and business processes.
 
 ## Conclusion
-Based on the analyses conducted on the dataset and the insights gotten, it can be concluded that there seems to be an upward trend for a period of 6 months forecast and some seasonal components as well
+Based on the analyses conducted on the dataset and the insights obtained, it can be concluded that there seems to be an upward trend for 6 months forecast and some seasonal components as well
